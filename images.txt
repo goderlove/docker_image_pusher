@@ -1,5 +1,6 @@
 nginx
 clash
+Jellyfin
 ChatGPT-Next-Web
 uptime-kuma
 musicn-container
