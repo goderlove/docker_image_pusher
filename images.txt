@@ -1,5 +1,6 @@
 nginx
 clash
+alpine
 Jellyfin
 ChatGPT-Next-Web
 uptime-kuma
