@@ -2,6 +2,7 @@ nginx
 clash
 alpine
 emby
+python
 Jellyfin
 ChatGPT-Next-Web
 uptime-kuma
